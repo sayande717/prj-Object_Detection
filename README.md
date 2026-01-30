@@ -36,5 +36,3 @@ A Machine Learning based project for object detection. The target is to create a
    2. Get Ambiguous Detections from `MLP Classifier`.
    3. Aggregate them to product the final result for the proposed model.
 7. **TEST MODEL**: Display Annotated Images (2-3).
-
-### Note: This is a work in progress.
